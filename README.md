@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zhang-yibo-netizen
+- 👀 I’m interested in wave equation forward modeling.
+- 🌱 I’m currently learning C language.
+- 💞️ I’m looking to collaborate on 
+- 📫 E-mail 3549879622@qq.com
